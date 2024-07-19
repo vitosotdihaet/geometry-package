@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools",]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometry_package"
+version = "0.1.0"
+
+[project.scripts]
+test-geometry-package = "geometry_package.test:main"
