@@ -1,12 +1,11 @@
 # Geometry package
 
-# How to install
+# How to install to pip
 ```bash
 python3 -m pip install git+https://github.com/vitosotdihaet/geometry_package.git
 ```
 
 # How to test
 ```bash
-python3 -m pip install -e . # editable install
 test-geometry-package
 ```
