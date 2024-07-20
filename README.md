@@ -2,7 +2,7 @@
 
 # How to install to pip
 ```bash
-python3 -m pip install git+https://github.com/vitosotdihaet/geometry_package.git
+python3 -m pip install git+https://github.com/vitosotdihaet/geometry-package.git
 ```
 
 # How to test
